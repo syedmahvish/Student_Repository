@@ -1,0 +1,4 @@
+CWID|Name|Major|Age
+123|Mahvish|CS|23
+24|Shweta|MS|25
+134|Priya|CS|24
